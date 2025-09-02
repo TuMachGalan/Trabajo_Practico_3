@@ -1,4 +1,4 @@
-# Trabajo Practico 3 ULP
+# Trabajo Practico 3 ULP🎯
 
 # Grupo 20 🚀
 
@@ -8,9 +8,10 @@
 
 ## Características principales
 
-- Conversor de temperatura
-- Interfaz gráfica intuitiva
-- Soporte múltiples unidades
+- Conversor de temperatura🔥
+- Inicio de sesion con java sin base de datos ✨
+- Distintas Versiones Segun Alumno 😎
+
 
 ## Tecnologías utilizadas
 
